@@ -1,0 +1,3 @@
+<configuration>
+    <hotkey action="toggle-keyboard-layout" type="hotkey" label="Hotkey for raising the volume">F11</hotkey>
+</configuration>
